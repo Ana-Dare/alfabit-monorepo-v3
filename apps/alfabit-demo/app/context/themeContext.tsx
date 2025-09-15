@@ -1,20 +1,22 @@
-import { createContext, useState } from 'react';
-import { Theme, defaultTheme } from '@cicatrizdev/alfabit-tokens';
+import { createContext, useState } from "react";
+import { Theme, defaultTheme } from "@anadare/alfabit-tokens";
 
 export const ThemeContext = createContext<{
-	theme: Theme | undefined;
-	changeTheme: (theme: Theme) => void;
+  theme: Theme | undefined;
+  changeTheme: (theme: Theme) => void;
 }>({
-	theme: undefined,
-	changeTheme: () => {},
+  theme: undefined,
+  changeTheme: () => {},
 });
 
 export const ThemeProvider = ({ children }: { children: React.ReactNode }) => {
-	const [appTheme, setAppTheme] = useState<Theme | undefined>(defaultTheme);
+  const [appTheme, setAppTheme] = useState<Theme | undefined>(defaultTheme);
 
-	return (
-		<ThemeContext.Provider value={{ theme: appTheme, changeTheme: setAppTheme }}>
-			{children}
-		</ThemeContext.Provider>
-	);
+  return (
+    <ThemeContext.Provider
+      value={{ theme: appTheme, changeTheme: setAppTheme }}
+    >
+      {children}
+    </ThemeContext.Provider>
+  );
 };

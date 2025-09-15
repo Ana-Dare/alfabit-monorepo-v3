@@ -1,4 +1,4 @@
-# @cicatrizdev/alfabit-component
+# @anadare/alfabit-component
 
 ## 1.0.0
 
