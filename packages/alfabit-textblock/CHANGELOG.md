@@ -1,4 +1,4 @@
-# @anadare/alfabit-textblock
+# @cicatrizdev/alfabit-textblock
 
 ## 1.0.0
 

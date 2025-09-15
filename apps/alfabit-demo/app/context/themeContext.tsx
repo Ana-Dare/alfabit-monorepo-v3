@@ -1,5 +1,5 @@
 import { createContext, useState } from "react";
-import { Theme, defaultTheme } from "@anadare/alfabit-tokens";
+import { Theme, defaultTheme } from "@cicatrizdev/alfabit-tokens";
 
 export const ThemeContext = createContext<{
   theme: Theme | undefined;

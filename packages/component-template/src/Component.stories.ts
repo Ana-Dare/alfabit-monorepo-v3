@@ -1,6 +1,6 @@
 // @ts-ignore
 import type { Meta, StoryObj } from "@storybook/react";
-import { Component } from "@anadare/alfabit-component";
+import { Component } from "@cicatrizdev/alfabit-component";
 
 const meta = {
   title: "Moléculas/Component",

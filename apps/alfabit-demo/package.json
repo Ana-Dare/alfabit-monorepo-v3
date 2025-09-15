@@ -11,8 +11,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@anadare/alfabit-button": "^1.1.0",
-    "@anadare/alfabit-tokens": "^1.1.0",
+    "@cicatrizdev/alfabit-button": "^1.1.0",
+    "@cicatrizdev/alfabit-tokens": "^1.1.0",
     "@remix-run/node": "^2.13.1",
     "@remix-run/react": "^2.13.1",
     "@remix-run/serve": "^2.13.1",

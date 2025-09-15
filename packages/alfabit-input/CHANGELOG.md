@@ -1,4 +1,4 @@
-# @anadare/alfabit-input
+# @cicatrizdev/alfabit-input
 
 ## 1.0.0
 

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { background, gray } from "@anadare/alfabit-tokens";
+import { background, gray } from "@cicatrizdev/alfabit-tokens";
 
 export const Wrapper = styled.div`
   padding: 32px 24px 32px 48px;

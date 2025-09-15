@@ -1,4 +1,4 @@
-# @anadare/alfabit-button
+# @cicatrizdev/alfabit-button
 
 ## 1.1.0
 

@@ -1,5 +1,5 @@
 {
-  "name": "@anadare/alfabit-textblock",
+  "name": "@cicatrizdev/alfabit-textblock",
   "description": "TextBlock do Design System Alfabit",
   "author": {
     "name": "Cicatriz",
@@ -32,7 +32,7 @@
     "styled-components": "^5.3.9",
     "tslib": "^2.8.0",
     "typescript": "^5.5.3",
-    "@anadare/alfabit-tokens": "workspace:*"
+    "@cicatrizdev/alfabit-tokens": "workspace:*"
   },
   "publishConfig": {
     "access": "public"

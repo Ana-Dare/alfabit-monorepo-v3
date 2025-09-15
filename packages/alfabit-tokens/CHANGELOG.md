@@ -1,4 +1,4 @@
-# @anadare/alfabit-tokens
+# @cicatrizdev/alfabit-tokens
 
 ## 1.1.0
 

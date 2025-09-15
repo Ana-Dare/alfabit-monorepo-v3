@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { TextBlock } from "@anadare/alfabit-textblock";
+import { TextBlock } from "@cicatrizdev/alfabit-textblock";
 
 const meta = {
   title: "Moléculas/TextBlock",

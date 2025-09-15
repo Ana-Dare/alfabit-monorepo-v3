@@ -1,4 +1,4 @@
-import { defaultTheme, gray, Theme, violet } from "@anadare/alfabit-tokens";
+import { defaultTheme, gray, Theme, violet } from "@cicatrizdev/alfabit-tokens";
 
 export const customTheme: Theme = {
   colors: {

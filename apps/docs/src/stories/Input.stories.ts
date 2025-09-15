@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Input } from "@anadare/alfabit-input";
+import { Input } from "@cicatrizdev/alfabit-input";
 
 const meta = {
   title: "Moléculas/Input",

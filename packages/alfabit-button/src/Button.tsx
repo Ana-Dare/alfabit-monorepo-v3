@@ -1,6 +1,6 @@
 import React from "react";
 import { StyledButton } from "./Button.styles";
-import { defaultTheme, Theme } from "@anadare/alfabit-tokens";
+import { defaultTheme, Theme } from "@cicatrizdev/alfabit-tokens";
 
 export interface ButtonProps
   extends React.ButtonHTMLAttributes<HTMLButtonElement> {
