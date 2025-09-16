@@ -1,9 +1,9 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import { Input } from "@anadare/alfabit-input";
-import { Button } from "@anadare/alfabit-button";
+import { Input } from "@cicatrizdev/alfabit-input";
+import { Button } from "@cicatrizdev/alfabit-button";
 import styled from "styled-components";
 import { fn } from "@storybook/test";
-import { violet } from "@anadare/alfabit-tokens";
+import { violet } from "@cicatrizdev/alfabit-tokens";
 
 type FormProps = {
   onSubmit: () => void;
